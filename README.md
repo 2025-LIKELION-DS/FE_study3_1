@@ -20,7 +20,7 @@ main으로 이동해서 팀원이 올린 feat/user의 변경 내용을 가져오
 
 - 아기사자 이소라의 답🍊 <br/>
 답: git pull origin feat/user<br/>
-이유: 현재 레포에 있는 내용을 가져오는 것 pull, origin사용 <br/>
+이유: 현재 레포에 있는 내용을 가져오는 것 pull, origin사용! <br/>
 
 ---
 #### 🦁 마무리
